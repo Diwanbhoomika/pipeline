@@ -1,0 +1,66 @@
+[
+  {
+    "EmployeeID": 5001,
+    "DepartmentID": "DEPT001",
+    "EmployeeName": "Alex Rodriguez",
+    "HireDate": "2024-01-15T08:00:00Z",
+    "UpdatedDate": "2024-05-01T10:30:00Z",
+    "Salary": 75000.00
+  },
+  {
+    "EmployeeID": 5002,
+    "DepartmentID": "DEPT002",
+    "EmployeeName": "Maria Garcia",
+    "HireDate": "2024-02-01T09:15:00Z",
+    "UpdatedDate": "2024-05-03T14:20:00Z",
+    "Salary": 82500.00
+  },
+  {
+    "EmployeeID": 5003,
+    "DepartmentID": "DEPT001",
+    "EmployeeName": "James Thompson",
+    "HireDate": "2024-02-15T10:30:00Z",
+    "UpdatedDate": "2024-05-05T16:45:00Z",
+    "Salary": 68000.00
+  },
+  {
+    "EmployeeID": 5004,
+    "DepartmentID": "DEPT003",
+    "EmployeeName": "Sophie Chen",
+    "HireDate": "2024-03-01T11:45:00Z",
+    "UpdatedDate": "2024-05-08T12:15:00Z",
+    "Salary": 95000.00
+  },
+  {
+    "EmployeeID": 5005,
+    "DepartmentID": "DEPT002",
+    "EmployeeName": "Michael O'Connor",
+    "HireDate": "2024-03-15T13:00:00Z",
+    "UpdatedDate": "2024-05-10T09:30:00Z",
+    "Salary": 71500.00
+  },
+  {
+    "EmployeeID": 5006,
+    "DepartmentID": "DEPT004",
+    "EmployeeName": "Rachel Kim",
+    "HireDate": "2024-04-01T14:15:00Z",
+    "UpdatedDate": "2024-05-12T11:45:00Z",
+    "Salary": 88000.00
+  },
+  {
+    "EmployeeID": 5007,
+    "DepartmentID": "DEPT003",
+    "EmployeeName": "Daniel Martinez",
+    "HireDate": "2024-04-15T15:30:00Z",
+    "UpdatedDate": "2024-05-15T13:20:00Z",
+    "Salary": 79500.00
+  },
+  {
+    "EmployeeID": 5008,
+    "DepartmentID": "DEPT005",
+    "EmployeeName": "Amanda Foster",
+    "HireDate": "2024-05-01T16:45:00Z",
+    "UpdatedDate": "2024-05-18T15:10:00Z",
+    "Salary": 105000.00
+  }
+]
