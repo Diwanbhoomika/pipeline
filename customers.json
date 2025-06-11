@@ -1,0 +1,66 @@
+[
+  {
+    "CustomerID": 3001,
+    "CompanyID": "COMP001",
+    "CustomerName": "John Smith",
+    "RegistrationDate": "2024-03-15T10:00:00Z",
+    "UpdatedDate": "2024-05-02T14:30:00Z",
+    "CreditLimit": 5000.00
+  },
+  {
+    "CustomerID": 3002,
+    "CompanyID": "COMP002",
+    "CustomerName": "Sarah Johnson",
+    "RegistrationDate": "2024-03-20T12:15:00Z",
+    "UpdatedDate": "2024-05-05T16:45:00Z",
+    "CreditLimit": 7500.00
+  },
+  {
+    "CustomerID": 3003,
+    "CompanyID": "COMP001",
+    "CustomerName": "Mike Davis",
+    "RegistrationDate": "2024-03-25T09:30:00Z",
+    "UpdatedDate": "2024-05-08T11:20:00Z",
+    "CreditLimit": 3000.00
+  },
+  {
+    "CustomerID": 3004,
+    "CompanyID": "COMP003",
+    "CustomerName": "Emily Wilson",
+    "RegistrationDate": "2024-04-01T15:45:00Z",
+    "UpdatedDate": "2024-05-12T13:10:00Z",
+    "CreditLimit": 10000.00
+  },
+  {
+    "CustomerID": 3005,
+    "CompanyID": "COMP002",
+    "CustomerName": "Robert Brown",
+    "RegistrationDate": "2024-04-05T11:00:00Z",
+    "UpdatedDate": "2024-05-15T10:25:00Z",
+    "CreditLimit": 6000.00
+  },
+  {
+    "CustomerID": 3006,
+    "CompanyID": "COMP004",
+    "CustomerName": "Lisa Anderson",
+    "RegistrationDate": "2024-04-10T13:30:00Z",
+    "UpdatedDate": "2024-05-18T15:50:00Z",
+    "CreditLimit": 8500.00
+  },
+  {
+    "CustomerID": 3007,
+    "CompanyID": "COMP003",
+    "CustomerName": "David Taylor",
+    "RegistrationDate": "2024-04-15T16:20:00Z",
+    "UpdatedDate": "2024-05-22T12:40:00Z",
+    "CreditLimit": 4500.00
+  },
+  {
+    "CustomerID": 3008,
+    "CompanyID": "COMP005",
+    "CustomerName": "Jennifer White",
+    "RegistrationDate": "2024-04-20T08:15:00Z",
+    "UpdatedDate": "2024-05-25T14:05:00Z",
+    "CreditLimit": 12000.00
+  }
+]
