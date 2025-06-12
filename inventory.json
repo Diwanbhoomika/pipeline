@@ -1,0 +1,62 @@
+[
+  {
+    "InventoryID": 7001,
+    "WarehouseID": "WH001",
+    "ItemCode": "ITM-LAP-001",
+    "ItemName": "Business Laptop",
+    "Category": "Electronics",
+    "StockQuantity": 45,
+    "ReorderLevel": 10,
+    "UnitCost": 899.99,
+    "LastRestockDate": "2024-04-20T08:30:00Z",
+    "UpdatedDate": "2024-05-03T10:15:00Z"
+  },
+  {
+    "InventoryID": 7002,
+    "WarehouseID": "WH002",
+    "ItemCode": "ITM-MOU-002",
+    "ItemName": "Wireless Mouse",
+    "Category": "Accessories",
+    "StockQuantity": 120,
+    "ReorderLevel": 25,
+    "UnitCost": 29.99,
+    "LastRestockDate": "2024-04-25T14:45:00Z",
+    "UpdatedDate": "2024-05-06T12:30:00Z"
+  },
+  {
+    "InventoryID": 7003,
+    "WarehouseID": "WH001",
+    "ItemCode": "ITM-MON-003",
+    "ItemName": "4K Monitor",
+    "Category": "Display",
+    "StockQuantity": 28,
+    "ReorderLevel": 5,
+    "UnitCost": 459.00,
+    "LastRestockDate": "2024-05-01T11:20:00Z",
+    "UpdatedDate": "2024-05-09T09:45:00Z"
+  },
+  {
+    "InventoryID": 7004,
+    "WarehouseID": "WH003",
+    "ItemCode": "ITM-CAB-004",
+    "ItemName": "USB-C Cable",
+    "Category": "Cables",
+    "StockQuantity": 200,
+    "ReorderLevel": 50,
+    "UnitCost": 15.99,
+    "LastRestockDate": "2024-05-05T16:10:00Z",
+    "UpdatedDate": "2024-05-12T14:20:00Z"
+  },
+  {
+    "InventoryID": 7005,
+    "WarehouseID": "WH002",
+    "ItemCode": "ITM-KEY-005",
+    "ItemName": "Mechanical Keyboard",
+    "Category": "Input Devices",
+    "StockQuantity": 35,
+    "ReorderLevel": 8,
+    "UnitCost": 129.99,
+    "LastRestockDate": "2024-05-08T13:30:00Z",
+    "UpdatedDate": "2024-05-15T11:55:00Z"
+  }
+]
