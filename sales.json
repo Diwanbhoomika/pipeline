@@ -1,0 +1,62 @@
+[
+  {
+    "SalesID": 8001,
+    "SalesPersonID": "SP001",
+    "TerritoryID": "TER001",
+    "SalesDate": "2024-05-01T10:30:00Z",
+    "UpdatedDate": "2024-05-03T14:45:00Z",
+    "GrossSales": 1250.75,
+    "Discount": 125.08,
+    "NetSales": 1125.67,
+    "Commission": 112.57,
+    "Status": "Completed"
+  },
+  {
+    "SalesID": 8002,
+    "SalesPersonID": "SP002",
+    "TerritoryID": "TER002",
+    "SalesDate": "2024-05-02T15:20:00Z",
+    "UpdatedDate": "2024-05-06T11:30:00Z",
+    "GrossSales": 890.50,
+    "Discount": 89.05,
+    "NetSales": 801.45,
+    "Commission": 80.15,
+    "Status": "Pending"
+  },
+  {
+    "SalesID": 8003,
+    "SalesPersonID": "SP003",
+    "TerritoryID": "TER001",
+    "SalesDate": "2024-05-03T09:45:00Z",
+    "UpdatedDate": "2024-05-09T16:20:00Z",
+    "GrossSales": 2100.00,
+    "Discount": 210.00,
+    "NetSales": 1890.00,
+    "Commission": 189.00,
+    "Status": "Completed"
+  },
+  {
+    "SalesID": 8004,
+    "SalesPersonID": "SP001",
+    "TerritoryID": "TER003",
+    "SalesDate": "2024-05-04T13:15:00Z",
+    "UpdatedDate": "2024-05-12T10:40:00Z",
+    "GrossSales": 675.25,
+    "Discount": 33.76,
+    "NetSales": 641.49,
+    "Commission": 64.15,
+    "Status": "Refunded"
+  },
+  {
+    "SalesID": 8005,
+    "SalesPersonID": "SP004",
+    "TerritoryID": "TER004",
+    "SalesDate": "2024-05-05T11:50:00Z",
+    "UpdatedDate": "2024-05-15T13:25:00Z",
+    "GrossSales": 1580.90,
+    "Discount": 79.05,
+    "NetSales": 1501.85,
+    "Commission": 150.19,
+    "Status": "Completed"
+  }
+]
