@@ -1,0 +1,58 @@
+[
+  {
+    "ShipmentID": 9001,
+    "CarrierID": "CAR001",
+    "TrackingNumber": "TRK001234567",
+    "OriginLocation": "New York, NY",
+    "DestinationLocation": "Los Angeles, CA",
+    "ShipDate": "2024-05-01T08:00:00Z",
+    "EstimatedDelivery": "2024-05-05T18:00:00Z",
+    "ActualDelivery": "2024-05-04T16:30:00Z",
+    "UpdatedDate": "2024-05-04T16:35:00Z",
+    "Weight": 12.5,
+    "ShippingCost": 45.99,
+    "Status": "Delivered"
+  },
+  {
+    "ShipmentID": 9002,
+    "CarrierID": "CAR002",
+    "TrackingNumber": "TRK002345678",
+    "OriginLocation": "Chicago, IL",
+    "DestinationLocation": "Miami, FL",
+    "ShipDate": "2024-05-02T10:15:00Z",
+    "EstimatedDelivery": "2024-05-06T17:00:00Z",
+    "ActualDelivery": null,
+    "UpdatedDate": "2024-05-07T14:20:00Z",
+    "Weight": 8.3,
+    "ShippingCost": 32.75,
+    "Status": "In Transit"
+  },
+  {
+    "ShipmentID": 9003,
+    "CarrierID": "CAR003",
+    "TrackingNumber": "TRK003456789",
+    "OriginLocation": "Seattle, WA",
+    "DestinationLocation": "Denver, CO",
+    "ShipDate": "2024-05-03T14:30:00Z",
+    "EstimatedDelivery": "2024-05-07T15:00:00Z",
+    "ActualDelivery": "2024-05-07T14:45:00Z",
+    "UpdatedDate": "2024-05-07T14:50:00Z",
+    "Weight": 15.7,
+    "ShippingCost": 62.40,
+    "Status": "Delivered"
+  },
+  {
+    "ShipmentID": 9004,
+    "CarrierID": "CAR001",
+    "TrackingNumber": "TRK004567890",
+    "OriginLocation": "Dallas, TX",
+    "DestinationLocation": "Boston, MA",
+    "ShipDate": "2024-05-04T11:45:00Z",
+    "EstimatedDelivery": "2024-05-08T19:00:00Z",
+    "ActualDelivery": null,
+    "UpdatedDate": "2024-05-10T09:15:00Z",
+    "Weight": 22.1,
+    "ShippingCost": 78.90,
+    "Status": "Delayed"
+  }
+]
