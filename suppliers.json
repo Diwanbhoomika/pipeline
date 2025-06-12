@@ -1,0 +1,52 @@
+[
+  {
+    "SupplierID": 6001,
+    "RegionID": "REG001",
+    "SupplierName": "Global Tech Solutions",
+    "ContactPerson": "John Williams",
+    "EstablishedDate": "2020-03-15T00:00:00Z",
+    "UpdatedDate": "2024-05-02T09:15:00Z",
+    "CreditRating": 8.5,
+    "IsActive": true
+  },
+  {
+    "SupplierID": 6002,
+    "RegionID": "REG002",
+    "SupplierName": "Prime Electronics Ltd",
+    "ContactPerson": "Sarah Mitchell",
+    "EstablishedDate": "2019-07-22T00:00:00Z",
+    "UpdatedDate": "2024-05-05T14:30:00Z",
+    "CreditRating": 9.2,
+    "IsActive": true
+  },
+  {
+    "SupplierID": 6003,
+    "RegionID": "REG001",
+    "SupplierName": "Innovative Components Inc",
+    "ContactPerson": "Michael Chen",
+    "EstablishedDate": "2018-11-10T00:00:00Z",
+    "UpdatedDate": "2024-05-08T11:45:00Z",
+    "CreditRating": 7.8,
+    "IsActive": false
+  },
+  {
+    "SupplierID": 6004,
+    "RegionID": "REG003",
+    "SupplierName": "Apex Manufacturing",
+    "ContactPerson": "Lisa Rodriguez",
+    "EstablishedDate": "2021-01-05T00:00:00Z",
+    "UpdatedDate": "2024-05-12T16:20:00Z",
+    "CreditRating": 8.9,
+    "IsActive": true
+  },
+  {
+    "SupplierID": 6005,
+    "RegionID": "REG002",
+    "SupplierName": "Digital Dynamics Corp",
+    "ContactPerson": "Robert Taylor",
+    "EstablishedDate": "2017-09-18T00:00:00Z",
+    "UpdatedDate": "2024-05-15T13:10:00Z",
+    "CreditRating": 9.5,
+    "IsActive": true
+  }
+]
